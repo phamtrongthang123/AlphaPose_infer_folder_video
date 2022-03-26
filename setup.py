@@ -189,7 +189,7 @@ if __name__ == '__main__':
         description='Code for AlphaPose',
         long_description=readme(),
         keywords='computer vision, human pose estimation',
-        url='https://github.com/MVIG-SJTU/AlphaPose',
+        url='https://github.com/phamtrongthang123/AlphaPose_infer_folder_video',
         packages=find_packages(exclude=('data', 'exp',)),
         package_data={'': ['*.json', '*.txt']},
         classifiers=[
